@@ -20,5 +20,5 @@ Egy Azure szerepkör-hozzárendelési forgatókönyvet teszteltem, hogy ellenőr
 - Létrehoztam felhasználókat és hozzárendeltem a szerepköröket.
 - Ellenőriztem a jogosultságokat.
 - Megvizsgáltam a vizsgakérdés helyességét.
-- 
+  
 További részletek a videóban.
