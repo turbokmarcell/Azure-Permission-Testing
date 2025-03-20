@@ -1,9 +1,8 @@
-# Azure-Permission-Testing
-
 # Azure Role Assignment Test  
 I tested an Azure role assignment scenario to validate a study question.  
 
-🎥 Watch the video here: [YouTube link]  
+🎥 Watch the video here: [Youtube Link]([https://youtube.com/your-video-link](https://www.youtube.com/watch?v=yyz-vPPlpgs))
+  
 
 ## Summary  
 - Created users and assigned roles.  
@@ -12,3 +11,14 @@ I tested an Azure role assignment scenario to validate a study question.
 
 More details in the video.  
 
+# Azure Szerepkör Hozzárendelési Teszt
+Egy Azure szerepkör-hozzárendelési forgatókönyvet teszteltem, hogy ellenőrizzem egy vizsgakérdés helyességét.
+
+🎥 Nézd meg a videót itt: [Youtube Link]([https://youtube.com/your-video-link](https://www.youtube.com/watch?v=yyz-vPPlpgs))
+
+## Összegzés
+- Létrehoztam felhasználókat és hozzárendeltem a szerepköröket.
+- Ellenőriztem a jogosultságokat.
+- Megvizsgáltam a vizsgakérdés helyességét.
+- 
+További részletek a videóban.
